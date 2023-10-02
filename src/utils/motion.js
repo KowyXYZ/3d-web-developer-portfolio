@@ -82,7 +82,9 @@ export const textVariant = (delay) => {
         transition: {
           staggerChildren: staggerChildren,
           delayChildren: delayChildren || 0,
+          
         },
+        
       },
     };
   };
